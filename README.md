@@ -1,0 +1,2 @@
+# footprints
+gEDA PCB footprints
